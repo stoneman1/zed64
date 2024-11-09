@@ -1,0 +1,3 @@
+name = "Asm6502"
+grammar = "asm6502"
+line_comments = ["//"]

@@ -1,0 +1,11 @@
+id = "asm6502"
+name = "6502 Assembly"
+version = "0.0.1"
+schema_version = 1
+authors = ["Aleksi Pousar <aleksi@aleksipousar.fi>"]
+description = "KickAssembler syntax highlighting for Zed"
+repository = "https://github.com/stoneman1/zed64"
+
+[grammars.asm6502]
+repository = "https://github.com/stoneman1/tree-sitter-asm6502"
+commit = "580593a9673884b55ffa8eb75cc6eeae3d6efc07"
